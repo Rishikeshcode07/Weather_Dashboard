@@ -10,7 +10,7 @@
 
   * 🎨 Designed with a dark, modern UI to make insights easy to read and presentation‑ready.
 
-
+![Dashboard preview](https://github.com/Rishikeshcode07/Weather_Dashboard/blob/main/Screenshot%202025-12-07%20132700.png)
 
 📁 Files included in this repo
 
